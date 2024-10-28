@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304167288543",
+    "project_id": "autenticador-e4b20",
+    "storage_bucket": "autenticador-e4b20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304167288543:android:4287ba73868af6e430336a",
+        "android_client_info": {
+          "package_name": "com.example.autenticador_jeferson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304167288543-b32udn0mjqii4nc6vip95u4tp89gsafo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8gSo-rR_8XGdXMxuiSTRQgFi5wUoYFbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304167288543-b32udn0mjqii4nc6vip95u4tp89gsafo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
